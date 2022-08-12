@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.findMore{
+    background: url("../assets/bg.png");
+}
+
+.container{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.findMore__header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
